@@ -1,0 +1,13 @@
+Introdução ao GitHub; 
+
+Comandos básicos no Linux
+
+ls == Mostrar a lista de diretórios.
+Mkdir == Criar pastas.
+rm -rf == Deletar pastas/arquivos
+cd == Entrar/Navegar entre as pastas.
+
+
+git init = Inicializar o git na pasta.
+
+git

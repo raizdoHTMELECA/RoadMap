@@ -1,0 +1,11 @@
+BackEnd
+
+Os dados precisam ser salvos em algum lugar para ser manipulados e acessados posteriormente ou seja um famoso BANCO DE DADOS.
+
+O BackEnd trabalha na maioria das vezes fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice e versa, sempre aplicando as devidas regras de negócios, validações e garantias em um ambiente, onde o usuário final não tem acesso a estas informações sem serem requeridas.
+
+O que é uma API?
+
+Um intermediário de software que permite que dois aplicativos conversem entre si.
+
+Caminho feito entre o FrontEnd e o BackEnd, sobre as requisições do usuário final. 

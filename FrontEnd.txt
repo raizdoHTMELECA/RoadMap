@@ -1,0 +1,19 @@
+Front End = Modelo cliente servidor.
+
+Usuários == Internet == Servidor, via requisição.
+
+Uma estrutura de aplicação que distribui as tarefas e faz as devidas requisições, para os requerentes de um servições e os fornecedores deste serviço.
+
+Front End = Desenvolvedor.
+
+Programa a parte visual de um site ou aplicativo, ou seja, aquilo que conseguimos interagir a partir do visual do site, tudo aquilo que vemos/usual de um sistema web.
+
+Tecnologias mais usadas no frontend = Html, css e JavaScript.
+
+Onde eu posso criar essas interfaces ou sistemas? Dentro de uma IDE ou Ambiente de desenvolvimento integrado.
+
+Frameworks = Um facilitador.
+
+Trazendo diversas soluções já definidas, códigos pré feitos para utilizar.
+
+Angular = JavaScript, Html e Css.

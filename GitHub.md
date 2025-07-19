@@ -90,3 +90,4 @@ Abra o terminal e execute os seguintes comandos:
 3. **Para baixar atualizações** feitas por outros colaboradores ou de outro local, utilize:
 
 - git pull
+.

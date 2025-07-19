@@ -1,0 +1,24 @@
+UX Design = Experiencia do usuário = Comportamento.
+
+O design da experiencia do usuário é o processo que visa melhorar a satisfação do usuário com um produto ou serviço.
+
+Melhorando a usabilidade e acessibilidade
+
+Montar um esqueleto da cara do meu software ou produto final, criar um protótipo de maneira manual ou com ferramentas de web design = Figma.
+
+Pesquisa;
+Protótipos;
+Objetivos;
+
+UI Design = Interface do Usuário = Aparencia.
+
+O design de interface do usuário, ou seja um profissional focado em cores, tipografias e microinterações e estilos.
+
+Desenvolvimento da interface dos usuários.
+
+Design;
+Tipografia;
+Cores;
+Layouts;
+
+

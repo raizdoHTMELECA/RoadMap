@@ -30,3 +30,4 @@ No seu código:
 3. `System.out.println(novaPessoa.getTesteName());` utiliza o método `get` para **acessar de forma segura** o nome que foi guardado e exibi-lo.
 
 Em resumo, `get` e `set` não são ferramentas, mas sim **métodos que implementam o princípio do encapsulamento**. Eles são a maneira padrão e correta em Java e em muitas outras linguagens orientadas a objetos de proteger e manipular os dados de um objeto, garantindo maior segurança, flexibilidade e controle sobre o seu código.
+.
